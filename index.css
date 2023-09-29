@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+}
+.left_menu {
+    background-color: black;
+    width: 15%;
+    text-align: center;
+    height: 580px;
+}
+.main{
+    background-color: aqua;
+    width: 85%; 
+    height: 580px;
+}
+
+.center {
+     display: flex; 
+}
+
+.header{
+    background-color:aquamarine;
+    height: 50px;
+}
+
+footer{
+    background-color: blueviolet;
+    height: 80px;
+}
+.img {
+    width: 200px;
+    height: 50px;
+}
