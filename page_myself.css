@@ -88,6 +88,9 @@ a:hover {
 .img_mm{
     width:30%;
     margin-bottom: 5%;
+    border:solid;
+    border-radius:  10px;
+    border-color: rgba(120, 50, 18, 0.686);
 }
 
 .txt_myself{
